@@ -1,0 +1,9 @@
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\ClassLibrary1\bin\Debug\HelloWorld.dll
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\ClassLibrary1\bin\Debug\HelloWorld.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\ClassLibrary1\obj\Debug\HelloWorld.dll
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\ClassLibrary1\obj\Debug\HelloWorld.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorldComponent\bin\Debug\HelloWorldComponent.dll
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorldComponent\bin\Debug\HelloWorldComponent.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorldComponent\obj\Debug\HelloWorldComponent.dll
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorldComponent\obj\Debug\HelloWorldComponent.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorldComponent\obj\Debug\HellowWordComponent.csprojResolveAssemblyReference.cache

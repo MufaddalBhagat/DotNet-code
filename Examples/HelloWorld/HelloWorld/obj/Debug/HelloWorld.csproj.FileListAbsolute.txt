@@ -1,0 +1,8 @@
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorldComponent.dll
+C:\Mufaddal\DotNetvsJAVA\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorldComponent.pdb
